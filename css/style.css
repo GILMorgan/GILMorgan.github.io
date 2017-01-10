@@ -41,4 +41,6 @@ footer {
     background: black;
     color: white;
     padding: 10px;
+    text-align: right;
+    border-top: 5px solid #FFCC00;
 }
