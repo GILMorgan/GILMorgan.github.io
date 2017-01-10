@@ -6,6 +6,8 @@ html, body {
 .topText{
     background: black;
     color:white;
+    padding: 10px;
+    font-family: 'Architects Daughter', cursive;
 }
 
 .topText span {
