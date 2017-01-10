@@ -7,7 +7,8 @@ html, body {
     background: black;
     color:white;
     padding: 10px;
-    font-family: 'Architects Daughter', cursive;
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
 }
 
 .topText span {
