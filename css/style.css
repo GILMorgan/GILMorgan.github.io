@@ -19,7 +19,7 @@ html, body {
 nav {
     background: #26519e;
     font-family: 'Lobster', cursive;
-    font-size: 50px;
+    font-size: 25px;
 }
 
 nav ul {
@@ -34,5 +34,10 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
+    color: white;
+}
+
+footer {
+    background: black;
     color: white;
 }
