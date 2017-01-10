@@ -37,6 +37,10 @@ nav ul li a {
     color: white;
 }
 
+section {
+    font-family: 'Reem Kufi', sans-serif;
+}
+
 footer {
     background: black;
     color: white;
