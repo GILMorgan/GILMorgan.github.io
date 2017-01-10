@@ -3,12 +3,12 @@ html, body {
     padding: 0;
 }
 
-header {
+.topText{
     background: black;
     color:white;
 }
 
-header span {
+.topText span {
     display: block;
 }
 
