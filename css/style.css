@@ -13,10 +13,13 @@ html, body {
 
 .topText span {
     display: block;
+    font-size: 30px;
 }
 
 nav {
     background: #26519e;
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
 }
 
 nav ul {
@@ -26,6 +29,7 @@ nav ul {
 
 nav ul li {
     display: inline-block;
+    padding:0 10px;
 }
 
 nav ul li a {
