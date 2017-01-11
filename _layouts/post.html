@@ -10,9 +10,9 @@
         {% include header.html %}
         <section class="post">
             <h2>{{ post.title }}</h2>
-            <span class="date"> {{ post.date | date: "%m/%d/%Y" }}</span>
+            <span class="date"> {{ page.date | date: "%m/%d/%Y" }}</span>
             <hr />
-            {{ post.content }}
+            {{ page.content }}
         </section>
         {% include footer.html %}
     </body>
