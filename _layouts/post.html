@@ -14,7 +14,7 @@
             <hr />
             {{ page.content }}
             <hr />
-            <span>Posté dans : {{ page.tags }}</span>
+            <span>Posté dans : </span>{% for tags in page.tags %} <em>{{ tags }}</em> {% endfor %}
         </section>
         {% include footer.html %}
     </body>
