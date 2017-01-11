@@ -9,10 +9,12 @@
     <body>
         {% include header.html %}
         <section class="post">
-            <h2>{{ post.title }}</h2>
+            <h2>{{ page.title }}</h2>
             <span class="date"> {{ page.date | date: "%m/%d/%Y" }}</span>
             <hr />
             {{ page.content }}
+            <hr />
+            <span>Posté dans : {% for tag in page.tags %} tag {% endfor %}</span>
         </section>
         {% include footer.html %}
     </body>
