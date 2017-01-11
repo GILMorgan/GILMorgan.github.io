@@ -7,28 +7,10 @@
         <link rel="stylesheet" href="/css/style.css">
     </head>
     <body>
-        <header>
-            <div class="topText">
-                GIL Morgan
-                <span>Artisan codeur de longue date</span>
-            </div>
-            <nav>
-                <ul>
-                    <li>
-                        <a href="/">Accueil</a>
-                    </li>
-                    <li>
-                        <a href="/about.html">A propos</a>
-                    </li>
-                </ul>
-            </nav>
-        </header>
+        {% include header.html %}
         <section>
             {{ content }}
         </section>
-        <footer>
-            Propulsed by Jekyll <br/>
-            All texts are in CC BY-NC-SA
-        </footer>
+        {% include footer.html %}        
     </body>
 </html>
