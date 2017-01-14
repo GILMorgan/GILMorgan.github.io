@@ -1,0 +1,68 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.topText{
+    background: black;
+    color:white;
+    padding: 10px;
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+}
+
+.topText span {
+    display: block;
+    font-size: 30px;
+}
+
+nav {
+    background: #26519e;
+    font-family: 'Lobster', cursive;
+    font-size: 25px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    padding:0 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+section {
+    font-family: 'Reem Kufi', sans-serif;
+    padding: 20px;
+}
+
+.articleList {
+    list-style: none;
+}
+
+.articleList li {
+    border-left: 5px solid #FFCC00;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.articleList a {
+    display: block;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+footer {
+    background: black;
+    color: white;
+    padding: 10px;
+    text-align: right;
+    border-top: 5px solid #FFCC00;
+}
