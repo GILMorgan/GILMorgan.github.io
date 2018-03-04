@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GIL Morgan - Développeur Back</title>
+    <description>Le blog d'un développeur libro-phpiste</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 02 Mar 2018 11:52:24 +0100</pubDate>
+    <lastBuildDate>Fri, 02 Mar 2018 11:52:24 +0100</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
+    
+      
+      <item>
+        <title>Changement de style</title>
+        <description>&lt;p&gt;Etre graphiste c'est non seulement un métier mais cela nécessite aussi une certaine
+dose de talent à la base. Je ne dis pas cela dans l'espoir que mes coups de brosses
+sur les chaussures de la dite profession m'attireront quelques bénéfices, encore que si
+un talentueux maître es illustrations numériques me lit et qu'il se sent flatté : un peu
+d'aide ne serait pas de refut.&lt;/p&gt;
+&lt;p&gt;Dans une optique de DIY, j'ai décidé de me risquer moi même à faire la mise en page
+de ce site et à coder tout les CSS avec mes petits doigts. Autant être honête : le résultat
+est catastrophique. Ma maîtrise de l'équilibre des couleurs et de la composition est bien en
+deça celle de mon fiston, qui n'a tout juste que sept ans au moment où j'écris ces lignes.&lt;/p&gt;
+&lt;p&gt;En désespoir de cause, j'ai fini par me tourner vers une solution de relative facilité :
+prendre un thème et l'adapter pour mes besoins. A défaut d'être de moi au moins c'est propre et
+élégant. Bien évidement je ne me suis pas contenté de faire un simple copier / coller du code.
+J'ai francisé les textes, modifiés quelques variables de ci de là, changer l'image de fond et
+j'en passe. &lt;br/&gt;Quelques menues bricoles en fait.&lt;/p&gt;
+&lt;p&gt;Même si ce n'est pas de moi, je suis assez content du résultat. Et vous, vous en pensez quoi ?&lt;/p&gt;
+</description>
+        
+          <description>On est graphiste ou pas.</description>
+        
+        <pubDate>Thu, 01 Feb 2018 16:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/changement-de-style/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/changement-de-style/</guid>
+        
+        <category>jekyll</category>
+        
+        <category>graphisme</category>
+        
+        
+        <category>divers</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Test du navigateur Vivaldi</title>
+        <description>&lt;p&gt;
+    &lt;b&gt;Pourquoi changer ?&lt;/b&gt;&lt;br/&gt;
+    Comme je le disais en introduction, les vieilles habitudes ont vraiment la vie dure. Une fois qu'on a pris ses marques avec un logiciel on a rapidement tendance à ne pas vouloir le lacher. Quand bien même on passe une bonne longueur de temps à raler sur les mêmes bugs et restrictions : on rechigne quand même à s'en débarrasser. Les navigateurs n'échappent pas à cette règle.
+&lt;/p&gt;
+
+&lt;p&gt;
+    &lt;b&gt;Firefox et Chrome&lt;/b&gt;&lt;br/&gt;
+    Toute la journée j'oscille entre ces deux navigateurs en fonction de mes besoins. Dans un monde idéal : j'aurais les avantages des deux sans aucun des inconvénients. &lt;br/&gt;
+    Firefox n'est pas toujours très stable et il est assez gourmand en ressources surtout avec des pages qui consomment beaucoup de javascript. &lt;br/&gt;
+    Chrome est plus rapide et stable mais je lui reproche son moteur de rendu qui peine avec le lissage de certaines polices de caractères (parfois en les rendant quasiment illisibles) et je lui reproche aussi son manque de personnalisation.
+&lt;/p&gt;
+
+&lt;p&gt;
+    &lt;b&gt;Vivaldi&lt;/b&gt;&lt;br/&gt;
+    Vivaldi est un navigateur crée par le père d'Opera. &lt;br/&gt;
+    Avant l'arrivé de Firefox, Opera était un navigateur qui tenait la route et qui était somme toute assez agréable. Je suis tombé sur un article particulièrement élogieux sur le journal du hacker et j'ai décidé de me faire un avis par moi-même. 
+&lt;/p&gt;
+
+&lt;p&gt;
+    Vivaldi se base sur le moteur de rendu de chrome, avec les avantages de ce dernier mais propose en plus une personalisation plus poussée (dans la ligné historique d'Opera). &lt;br/&gt;
+    On peu choisir différent thèmes, programmer leur changement en fonction de l'heure ou de la luminosité (a condition d'avoir le capteur qui convient). &lt;br/&gt;
+    Les extensions de chrome sont compatibles. &lt;br/&gt;
+    La position des onglets, de la barre d'adresse est paramétrable. On peut aussi régler les préférences de l'autocomplétion et les moteurs de recherches. Duck Duck Go est déjà dans la liste des moteurs installés, même s'il on peut regretter que ce soit Bing qui soit paramétré par défaut. &lt;br/&gt;
+    Il gère aussi les raccourcis claviers, les gestures, ...
+&lt;/p&gt;
+
+&lt;p&gt;
+    &lt;b&gt;Oui mais ...&lt;/b&gt;&lt;br/&gt;
+    Forcément il y a un &lt;em&gt;mais&lt;/em&gt;, plusieurs même.&lt;br/&gt;
+    Vivaldi ne gère pas correctement le HTML5, de ce fait les lecteurs en pur HTML5 restent désespérement muet. C'est pour le moins génant pour écouter Subsonic.&lt;br/&gt;
+    Les encodages vidéo sont aussi à la peine : impossible d'avoir les apercuts des &lt;em&gt;gif&lt;/em&gt; de Facebook.
+&lt;/p&gt;
+
+&lt;p&gt;
+    &lt;b&gt;En définitive&lt;/b&gt;&lt;br/&gt;
+    J'espère que les développeurs en charge de ce projet vont rapidement corriger ces bugs, car je pense que ce navigateur à beaucoup de potentiel. Mais dans l'attente je retourne à mes vieilles habitudes.
+&lt;/p&gt;</description>
+        
+          <description>Les vieilles habitudes ont la vie dure, et on reste facilement accroché à son navigateur préféré.</description>
+        
+        <pubDate>Thu, 12 Jan 2017 17:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/test-navigateur-vivaldi/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/test-navigateur-vivaldi/</guid>
+        
+        <category>test</category>
+        
+        <category>navigateur</category>
+        
+        
+        <category>divers</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Selected quote from Disworld</title>
+        <description>&lt;p&gt;Je suis, enfin, retombé sur un passage que je recherchais depuis quelques mois. Un dialogue savoureux entre père et fille de mon personnage 
+préféré de l'univers du Disque Monde. &lt;br/&gt;
+Quel dommage que Sir Pratchett nous ai quitté avec trop peu d'oeuvres pour passer le temps.&lt;br /&gt;
+Je vous livre le passage en l'état et en version originale : dans la langue de Terry.&lt;/p&gt;
+
+&lt;blockquote&gt;
+    &lt;p&gt;“All right,” said Susan. “I’m not stupid. You’re saying humans need... fantasies to make life bearable.” &lt;/p&gt;
+
+    &lt;p&gt;REALLY ? AS IF IT WAS SOME KIND OF PINK PILL? NO. HUMANS NEED FANTASY TO BE HUMAN. TO BE THE PLACE WHERE THE FALLING ANGEL MEETS THE RISING APE. &lt;/p&gt;
+
+    &lt;p&gt;“Tooth fairies ? Hogfathers ? Little—” &lt;p/&gt;
+
+    &lt;p&gt;YES. AS PRACTICE. YOU HAVE TO START OUT LEARNING TO BELIEVE THE LITTLE LIES.&lt;/p&gt;
+
+    &lt;p&gt;“So we can believe the big ones?”&lt;/p&gt;
+
+    &lt;p&gt;YES. JUSTICE. MERCY. DUTY. THAT SORT OF THING.&lt;/p&gt;
+
+    &lt;p&gt;“They’re not the same at all !”&lt;/p&gt;
+
+    &lt;p&gt;YOU THINK SO? THEN TAKE THE UNIVERSE AND GRIND IT DOWN TO THE FINEST POWDER AND SIEVE IT THROUGH THE FINEST SIEVE AND THEN SHOW ME ONE ATOM OF JUSTICE, ONE MOLECULE OF MERCY. AND YET — Death waved a hand. &lt;br/&gt;
+    AND YET YOU ACT AS IF THERE IS SOME IDEAL ORDER IN THE WORLD, AS IF THERE IS SOME... SOME RIGHTNESS IN THE UNIVERSE BY WHICH IT MAY BE JUDGED.&lt;/p&gt;
+
+    &lt;p&gt;“Yes, but people have got to believe that, or what’s the point—”&lt;/p&gt;
+
+    &lt;p&gt;MY POINT EXACTLY. &lt;/p&gt;
+&lt;/blockquote&gt;    
+- Susan and Death, The Hogfather
+</description>
+        
+          <description>Un morceau choisi de la saga du Disque Monde</description>
+        
+        <pubDate>Thu, 12 Jan 2017 17:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/selected-quote-from-discworld/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/selected-quote-from-discworld/</guid>
+        
+        <category>discworld</category>
+        
+        <category>Pratchett</category>
+        
+        <category>livre</category>
+        
+        
+        <category>divers</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Premier article</title>
+        <description>&lt;p&gt;En tout premier lieu, j'avais intitulé cet article &lt;em&gt;Au commencement&lt;/em&gt;.
+    Je me suis vite ravisé, car a bien y réfléchir : ça sonnait un peu trop comme
+    l'introduction des &lt;em&gt;Dix commandements&lt;/em&gt;. Est-il nécessaire de préciser
+    que nous parlons ici de l'oeuvre de Cecil B. DeMille, le chef d'oeuvre aux sept
+    oscars et pas de la comédie musicale.
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Premier article&lt;/em&gt; me semblait plus approprié. C'est mon tout premier article
+    sur ce blog et aussi mes premiers pas, mes premiers tatonnements avec Jekyll. &lt;br/&gt;
+    Je ne connaissais ce moteur de blog statique que de nom et j'avais hâte de l'essayer
+    pour m'en faire un avis par moi-même.
+&lt;/p&gt;
+
+&lt;p&gt;
+    &lt;b&gt;Création du compte sur gitpage&lt;/b&gt;&lt;br/&gt;
+    J'ai essayé de suivre du mieux possible le tutorial sur le site de github pour
+    créer ma premiere page. &lt;br/&gt;
+    On commence par créer un dépot spécifiquement pour le blog.&lt;br/&gt;
+    On ajoute une page &lt;em&gt;index.html&lt;/em&gt; avec le &lt;em&gt;hello world&lt;/em&gt; (Il faudra
+    un jour que je consacre un article à l'inventeur de cette formule). &lt;br/&gt;
+    La page s'affiche avec le &lt;em&gt;hello world&lt;/em&gt;. Le texte s'affiche en noir sur
+    fond blanc, le code HTML de la page se résume au &lt;em&gt;hello world&lt;/em&gt;. &lt;br/&gt;    
+&lt;/p&gt;
+
+&lt;p&gt;
+    &lt;b&gt;Thème&lt;/b&gt;&lt;br/&gt;
+    Par défault github propose des thèmes déjà prets à l'emploi. Sans vouloir remettre le 
+    talent des concepteurs de ces thèmes en cause, je préfère encore les coder à la main. &lt;br/&gt;
+    Pour se faire il suffit de créer un fichier layout et de le placer dans un repertoire 
+    &lt;em&gt;_layouts&lt;/em&gt; et de déclarer ce template dans l'entête yaml. Un peu de CSS et voilà. &lt;br/&gt;
+    Simple et efficace.
+&lt;/p&gt;
+
+&lt;p&gt;
+    &lt;b&gt;Du fichier et de la configuration&lt;/b&gt;&lt;br/&gt;
+    Le fonctionnement est on ne peut plus simple et agréable, surtout pour un dinosaure 
+    accroché comme une bernique à son Vim. Je présume que les amateurs des interfaces web 
+    n'y trouveront pas leur compte.
+&lt;/p&gt;
+
+</description>
+        
+          <description>Premiers pas avec Jekyll et premieres impressions sur ce moteur de blog.</description>
+        
+        <pubDate>Tue, 10 Jan 2017 23:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/premier-article/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/premier-article/</guid>
+        
+        <category>tutorial</category>
+        
+        <category>jekyll</category>
+        
+        
+        <category>divers</category>
+        
+      </item>
+      
+    
+  </channel>
+</rss>
