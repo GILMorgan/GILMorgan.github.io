@@ -1,7 +1,7 @@
 title: GIL Morgan - Développeur Back
 description: Le blog d'un développeur libro-phpiste
 
-url: http://brianmaierjr.github.com/long-haul
+url: https://gilmorgan.github.io/
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
