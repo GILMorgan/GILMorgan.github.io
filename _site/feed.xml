@@ -5,8 +5,8 @@
     <description>Le blog d'un développeur libro-phpiste</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Mar 2018 19:52:36 +0100</pubDate>
-    <lastBuildDate>Sun, 04 Mar 2018 19:52:36 +0100</lastBuildDate>
+    <pubDate>Mon, 05 Mar 2018 21:22:42 +0100</pubDate>
+    <lastBuildDate>Mon, 05 Mar 2018 21:22:42 +0100</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       
@@ -20,11 +20,11 @@ d'aide ne serait pas de refut.&lt;/p&gt;
 &lt;p&gt;Dans une optique de DIY, j'ai décidé de me risquer moi même à faire la mise en page
 de ce site et à coder tout les CSS avec mes petits doigts. Autant être honête : le résultat
 est catastrophique. Ma maîtrise de l'équilibre des couleurs et de la composition est bien en
-deça celle de mon fiston, qui n'a tout juste que sept ans au moment où j'écris ces lignes.&lt;/p&gt;
+deça celle de mon fiston, qui a tout juste sept ans au moment où j'écris ces lignes.&lt;/p&gt;
 &lt;p&gt;En désespoir de cause, j'ai fini par me tourner vers une solution de relative facilité :
-prendre un thème et l'adapter pour mes besoins. A défaut d'être de moi au moins c'est propre et
-élégant. Bien évidement je ne me suis pas contenté de faire un simple copier / coller du code.
-J'ai francisé les textes, modifiés quelques variables de ci de là, changer l'image de fond et
+prendre un thème et l'adapter à mes besoins. A défaut d'être de moi au moins c'est propre et
+élégant. Bien évidemment je ne me suis pas contenté de faire un simple copier / coller du code.
+J'ai francisé les textes, modifié quelques variables de-ci de-là, changé l'image de fond et
 j'en passe. &lt;br/&gt;Quelques menues bricoles en fait.&lt;/p&gt;
 &lt;p&gt;Même si ce n'est pas de moi, je suis assez content du résultat. Et vous, vous en pensez quoi ?&lt;/p&gt;
 </description>
