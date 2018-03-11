@@ -8,9 +8,10 @@ layout: default
       </div>
   {% endif %}
   {% assign article_words_count = page.content | number_of_words %}
+  {% assign lecture_time = article_words_count | divided_by:180 %}
   <h1 class="postTitle">{{ page.title }}</h1>
   <p class="meta">{{ page.date | date: '%d/%m/%Y' }}
-      {% if article_words_count > 180 %}  | <span class="time"> {{ page.content | number_of_words | divided_by:180 }}</span> Minute{% if article_words_count > 360 %}s{% endif %} de lecture {% endif %}
+      {% if lecture_time > 0 %}  | <span class="time"> {{ lecture_time }}</span> Minute{% if lecture_time > 1 %}s{% endif %} de lecture {% endif %}
   </p>
 
   {{ content }}
