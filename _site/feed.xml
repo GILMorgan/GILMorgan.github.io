@@ -5,16 +5,91 @@
     <description>Le blog d'un développeur libro-phpiste</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Mar 2018 21:22:42 +0100</pubDate>
-    <lastBuildDate>Mon, 05 Mar 2018 21:22:42 +0100</lastBuildDate>
+    <pubDate>Thu, 15 Mar 2018 20:59:49 +0100</pubDate>
+    <lastBuildDate>Thu, 15 Mar 2018 20:59:49 +0100</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      
+      <item>
+        <title>Des opinions et des couleurs</title>
+        <description>&lt;p&gt;Avoir des opinions c'est important. Bien évidement on ne peut pas en avoir
+sur tout. Je n'ai, et je l'avoue sans honte, aucune opinion certains sujets.
+Certaines thématiques sont trop complexes pour que je puisse avoir un avis tranché
+sur la question. Certains sujets mériteraient que j'y consacre un peu plus de temps
+pour approfondir le sujet. D'autres en revanche ne m’intéressent absolument pas
+(comme les frasques des célébrités du petit écran par exemple).&lt;/p&gt;
+
+&lt;p&gt;Toutes les opinions ne se valent pas. N'ayant aucun goût pour la polémique
+gratuite, je n'ai aucune envie de participer à des guerres de chapelle sur la
+politique ou la théologie comparée. Le dernier des piliers de comptoir a forcément
+un avis sur la conduite monétaire de la zone euro sans pourtant avoir jamais
+ouvert un manuel d'économie de sa vie.&lt;/p&gt;
+
+&lt;p&gt;Par exemple, j'aime beaucoup les chats nus et la cornemuse. Je sais d'expérience
+que ces deux passions ne sont pas partagées par le plus grand nombre. C'est une
+question de goût, le fait que je puisse aimer les sphinx est aussi recevable que
+son contraire. &lt;br /&gt;
+Si l'on cherchait à débattre sur ce sujet, on se retrouverait rapidement dans une
+impasse argumentaire. Chaque protagoniste restera fermement campé sur ses positions
+en se contentant de ressasser les mêmes sentences.&lt;br /&gt;
+&lt;em&gt;
+    - Il est pas beau ton chat. &lt;br /&gt;
+    - Non, c'est pas vrai. &lt;br /&gt;
+    - Si c'est vrai.
+&lt;/em&gt;&lt;br/&gt;
+Passionnant, n'est ce pas ? Vous ne serez sans doute pas surpris, si je vous disais
+que je n'ai vécu cet exemple un grand nombre de fois.&lt;/p&gt;
+
+&lt;p&gt;En tant que développeur, j'ai des opinions sur les technologies afférentes à
+ma profession. Contrairement au pilier de comptoir cité un peu plus haut, je suis en
+mesure de produire une défense argumentée de mes positions. Faute de quoi, je
+m'efforce de rester ouvert sur le sujet.&lt;br/&gt;
+A mon humble avis, il est très important pour un développeur d'avoir un recul critique
+sur les outils qu'il utilise au quotidien.&lt;/p&gt;
+
+&lt;p&gt;Se contenter d'utiliser sans cesse le même outil pour la simple et mauvaise raison
+qu'on s'y est habitué ou pire encore sous le prétexte que l'on à toujours fait ainsi.
+Avec de si beaux arguments, on n'aurait pas changé grand chose depuis l'âge de pierre.
+Je pense que je me fendrais d'un billet sur ce sujet dans un proche avenir.&lt;/p&gt;
+
+&lt;p&gt;Je ne vois que deux cas de figure possibles. Soit je suis à même d'expliquer les
+raisons qui me poussent à préférer telle méthodologie à une autre, tel language pour
+tel cas de figure à un autre. Et dans ce cas, je me sens prêt à confronter mon
+avis à d'éventuels contradicteurs.&lt;br /&gt;
+Soit je n'ai pas creusé la question ou mon choix s'est fait dans l'urgence et dans ce
+cas je me dois d'être ouvert à une remise en cause de mes habitudes.&lt;/p&gt;
+
+&lt;p&gt;Il me serait impossible de confronter mes opinions si je ne les exposais pas
+sur la place publique. C'est un peu la finalité de ce blog.&lt;br/&gt;
+A vos commentaires.
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;PS: Vous aurez notez, que je n'utilise nullement l'écriture inclusive. Dois-je
+rappeller que le terme &quot;développeur&quot; désigne la profession toute entière et pas
+uniquement ses représentants mâles.&lt;/p&gt;
+</description>
+        
+          <description>Les opinions, contrairement aux couleurs, cela se discute.</description>
+        
+        <pubDate>Mon, 12 Mar 2018 03:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/des-opinions-et-des-couleurs/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/des-opinions-et-des-couleurs/</guid>
+        
+        <category>opinions</category>
+        
+        
+        <category>code</category>
+        
+      </item>
+      
     
       
       <item>
         <title>Changement de style</title>
         <description>&lt;p&gt;Etre graphiste c'est non seulement un métier mais cela nécessite aussi une certaine
 dose de talent à la base. Je ne dis pas cela dans l'espoir que mes coups de brosses
-sur les chaussures de la dite profession m'attireront quelques bénéfices, encore que si
+sur les chaussures de la dite profession m'attireront quelques bénéfices. Encore que si
 un talentueux maître es illustrations numériques me lit et qu'il se sent flatté : un peu
 d'aide ne serait pas de refut.&lt;/p&gt;
 &lt;p&gt;Dans une optique de DIY, j'ai décidé de me risquer moi même à faire la mise en page
@@ -27,6 +102,9 @@ prendre un thème et l'adapter à mes besoins. A défaut d'être de moi au moins
 J'ai francisé les textes, modifié quelques variables de-ci de-là, changé l'image de fond et
 j'en passe. &lt;br/&gt;Quelques menues bricoles en fait.&lt;/p&gt;
 &lt;p&gt;Même si ce n'est pas de moi, je suis assez content du résultat. Et vous, vous en pensez quoi ?&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;L'image utilisée en bandeau est &lt;a href=&quot;https://www.flickr.com/photos/clairity/34614880044/in/photolist-UJNiSC-7cZFfA-H6mfJs-8A9SAJ-5Nbn4y-dtM8Hk-4JA8RR-7jiyqf-9naWD1-fb9U5Z-oES1wy-oYJd9-5vAUE3-H54wKi-c1EkR9-4LXH4f-dujj1M-KiBqA2-5u1WSe-4QWLC-fVb8vW-rTE9pH-8to91g-4Es56q-74ZtiH-AbEwuo-duwiJN-4NDxFe-8rtrPz-nPCWD4-aoqP6A-5w4SJS-3kkFja-xJNPAZ-5o7hoJ-bmaKdh-dmafaZ-9SWZCo-abvWeK-4qiDB1-74ouMU-59h1e7-bh1dFM-7cePgx-Qy3fHN-uyfrJH-6wgD6d-4UEpXf-58f4-5aT5GA&quot;&gt;Lighthouse in Stormy Skies, Duluth&lt;/a&gt;, &lt;a href=&quot;https://creativecommons.org/licenses/by/2.0/&quot;&gt;Creative Commons Attribution&lt;/a&gt; by &lt;a href=&quot;https://www.flickr.com/photos/clairity/&quot;&gt;
+Sharon Mollerus&lt;/a&gt;&lt;/p&gt;
 </description>
         
           <description>On est graphiste ou pas.</description>
